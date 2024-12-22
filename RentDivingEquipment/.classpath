@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/webapp/WEB-INF/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1 ">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/ojdbc11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/jstl-1.2.jar/jstl-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/jakarta.servlet.jsp.jstl-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/jakarta.servlet.jsp.jstl-api-2.0.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-codec-1.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-compress-1.21.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-io-2.11.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/curvesapi-1.07.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/jakarta.activation-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/jakarta.xml.bind-api-3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/log4j-api-2.18.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-examples-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-excelant-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-javadoc-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-ooxml-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-ooxml-full-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-ooxml-lite-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/poi-scratchpad-5.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/slf4j-api-1.7.36.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/SparseBitSet-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/eclipse-workspace/VarianceReport/build/classes/xmlbeans-5.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/jackson-databind-2.15.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/jackson-core-2.15.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/jackson-annotations-2.15.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/httpcore-4.4.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/httpclient-4.5.13.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/jackson-datatype-jsr310-2.15.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/logback-classic-1.4.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/MuhammadAimanBinZulk/Downloads/slf4j-simple-2.0.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
